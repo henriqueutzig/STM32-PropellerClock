@@ -1,7 +1,7 @@
 # STM32-PropellerClock
 
-STM32F411 based propeller clock made with @dfantonio for a school project in 2017 at [Liberato](https://www.liberato.com.br/).\
-![The only good photo of the working project](/img/PropellerClockWorking.jpeg)
+STM32F411 based propeller clock made with [Antônio](https://github.com/dfantonio) for a school project in 2017 at [Liberato](https://www.liberato.com.br/).\
+![The only good photo of the working project](/img/PropellerClockWorking.jpeg) \
 The clock would receive strings send by a simple GUI via bluetooth and display them as shown in the image. 
 
 ## Observations
